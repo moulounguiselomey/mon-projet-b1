@@ -13,3 +13,32 @@
 **chaine en gars**
 *chaine en italique*
 --texte barré--
+
+[lien vers OpenAi]
+[lien vers Google]
+
+> citation 
+> suite de la ciation
+
+>> ciation immbriquée
+>>suite de la citation imbriquée
+
+
+| Colonne 1 | Colonne 2 | 
+|-----------|-----------|
+|Contenu 1  |Contenu 2  |
+|Contenu 3  |Contenu 4  |
+|Contenu 5  |Contenu 6  |
+
+![lapin très mignon](https://i.pinimg.com/236x/84/1b/70/841b7006de3aa3fc313b2a4ae52c481f.jpg)
+
+---
+' '
+" "
+```html 
+<!DOCTYPE html>
+<html></html>
+```
+
+```javascript
+console.log("Hello, world!) ;>
