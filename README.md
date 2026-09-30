@@ -14,7 +14,7 @@
 *chaine en italique*
 --texte barré--
 
-[lien vers OpenAi](https://openai.com/fr-FR/)
+[bunny bunny rabbit](https://openai.com/fr-FR/)
 
 > citation 
 > suite de la ciation
