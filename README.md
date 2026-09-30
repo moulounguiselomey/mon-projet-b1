@@ -14,8 +14,7 @@
 *chaine en italique*
 --texte barré--
 
-[lien vers OpenAi]
-[lien vers Google]
+[lien vers OpenAi](https://openai.com/fr-FR/)
 
 > citation 
 > suite de la ciation
