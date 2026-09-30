@@ -1,4 +1,7 @@
 # mon-projet-b1
+Projet portfolio pour le Git et Collaboration
+
+Auteur: Sélomey
 ## titre niveau 2
 ### titre niveau 3 
 
